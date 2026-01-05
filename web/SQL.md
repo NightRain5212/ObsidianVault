@@ -1,0 +1,2 @@
+- **SQL** (Structured Query Language:结构化查询语言) 是用于管理关系数据库管理系统（RDBMS）
+- 
