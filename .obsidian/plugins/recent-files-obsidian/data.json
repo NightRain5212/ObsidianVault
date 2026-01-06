@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "内存管理",
-      "path": "操作系统/内存管理.md"
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "高斯定理",
+      "path": "物理/高斯定理.md"
+    },
+    {
+      "basename": "静电场",
+      "path": "物理/静电场.md"
+    },
+    {
+      "basename": "刚体的定轴转动",
+      "path": "物理/刚体的定轴转动.md"
+    },
+    {
+      "basename": "动量与角动量",
+      "path": "物理/动量与角动量.md"
+    },
+    {
+      "basename": "电容器与电介质",
+      "path": "物理/电容器与电介质.md"
+    },
+    {
+      "basename": "1",
+      "path": "1.md"
+    },
+    {
+      "basename": "AC 自动机",
+      "path": "数据结构与算法/AC 自动机.md"
+    },
+    {
+      "basename": "图匹配",
+      "path": "数据结构与算法/图匹配.md"
+    },
+    {
+      "basename": "排序",
+      "path": "数据结构与算法/排序.md"
     },
     {
       "basename": "概论",
       "path": "操作系统/概论.md"
     },
     {
-      "basename": "1",
-      "path": "1.md"
+      "basename": "内存管理",
+      "path": "操作系统/内存管理.md"
     },
     {
       "basename": "磁盘",
@@ -39,14 +75,6 @@
     {
       "basename": "贪心",
       "path": "数据结构与算法/贪心.md"
-    },
-    {
-      "basename": "排序",
-      "path": "数据结构与算法/排序.md"
-    },
-    {
-      "basename": "AC 自动机",
-      "path": "数据结构与算法/AC 自动机.md"
     },
     {
       "basename": "进程&线程",
@@ -87,14 +115,6 @@
     {
       "basename": "Lab5",
       "path": "操作系统/Lab5.md"
-    },
-    {
-      "basename": "电容器与电介质",
-      "path": "物理/电容器与电介质.md"
-    },
-    {
-      "basename": "静电场",
-      "path": "物理/静电场.md"
     },
     {
       "basename": "牛顿运动定律",
@@ -149,10 +169,6 @@
       "path": "数据结构与算法/流网络.md"
     },
     {
-      "basename": "图匹配",
-      "path": "数据结构与算法/图匹配.md"
-    },
-    {
       "basename": "滑动窗口",
       "path": "数据结构与算法/滑动窗口.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "二叉树基本算法",
       "path": "数据结构与算法/二叉树基本算法.md"
-    },
-    {
-      "basename": "二分",
-      "path": "数据结构与算法/二分.md"
-    },
-    {
-      "basename": "关键路径",
-      "path": "数据结构与算法/关键路径.md"
-    },
-    {
-      "basename": "渐进分析",
-      "path": "数据结构与算法/渐进分析.md"
-    },
-    {
-      "basename": "链表的插入与删除",
-      "path": "数据结构与算法/链表的插入与删除.png"
     }
   ],
   "omittedPaths": [],
