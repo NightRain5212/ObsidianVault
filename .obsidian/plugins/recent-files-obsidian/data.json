@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "设备管理",
+      "path": "操作系统/设备管理.md"
+    },
+    {
+      "basename": "文件系统",
+      "path": "操作系统/文件系统.md"
+    },
+    {
+      "basename": "内存管理",
+      "path": "操作系统/内存管理.md"
+    },
+    {
+      "basename": "进程&线程",
+      "path": "操作系统/进程&线程.md"
+    },
+    {
+      "basename": "电势",
+      "path": "电势.md"
     },
     {
       "basename": "高斯定理",
@@ -45,10 +61,6 @@
       "path": "操作系统/概论.md"
     },
     {
-      "basename": "内存管理",
-      "path": "操作系统/内存管理.md"
-    },
-    {
       "basename": "磁盘",
       "path": "操作系统/磁盘.md"
     },
@@ -61,10 +73,6 @@
       "path": "操作系统/固态硬盘SSD.md"
     },
     {
-      "basename": "设备管理",
-      "path": "操作系统/设备管理.md"
-    },
-    {
       "basename": "Lab6&7",
       "path": "操作系统/Lab6&7.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "贪心",
       "path": "数据结构与算法/贪心.md"
-    },
-    {
-      "basename": "进程&线程",
-      "path": "操作系统/进程&线程.md"
     },
     {
       "basename": "数理统计基础",
@@ -103,10 +107,6 @@
     {
       "basename": "触发器",
       "path": "数字逻辑电路/触发器.md"
-    },
-    {
-      "basename": "文件系统",
-      "path": "操作系统/文件系统.md"
     },
     {
       "basename": "一维随机变量",
