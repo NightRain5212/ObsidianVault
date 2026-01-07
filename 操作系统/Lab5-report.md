@@ -109,6 +109,7 @@ static int (*syscalls[])(uint32_t arg[]) = {
 分析 uCore OS中用户进程的创建、调度以及执行的过程。（ 要求说明处理流程，相关的主要函数、它们的功能以及调用关系。）
 
 在proc_init中，建立了一个0号线程`idleporc`和一号线程`initproc`，
+
 ```c
 void
 proc_init(void) {

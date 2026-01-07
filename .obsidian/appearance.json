@@ -1,6 +1,13 @@
 {
   "baseFontSize": 17,
-  "cssTheme": "Border",
+  "cssTheme": "AnuPpuccin",
   "accentColor": "#6bd5ef",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "textFontFamily": "LXGW Bright Code Regular",
+  "interfaceFontFamily": "LXGW Bright Code Regular",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }

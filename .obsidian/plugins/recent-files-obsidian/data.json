@@ -1,32 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "设备管理",
-      "path": "操作系统/设备管理.md"
-    },
-    {
       "basename": "文件系统",
       "path": "操作系统/文件系统.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "内存管理",
       "path": "操作系统/内存管理.md"
     },
     {
+      "basename": "排序",
+      "path": "数据结构与算法/排序.md"
+    },
+    {
       "basename": "进程&线程",
       "path": "操作系统/进程&线程.md"
     },
     {
-      "basename": "电势",
-      "path": "电势.md"
+      "basename": "lab1",
+      "path": "操作系统/lab1.md"
     },
     {
-      "basename": "高斯定理",
-      "path": "物理/高斯定理.md"
+      "basename": "Cmake",
+      "path": "Cmake.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Pasted image 20251217211047",
+      "path": "Pasted image 20251217211047.png"
+    },
+    {
+      "basename": "Pasted image 20251023140131",
+      "path": "Pasted image 20251023140131.png"
+    },
+    {
+      "basename": "Pasted image 20251023140043",
+      "path": "Pasted image 20251023140043.png"
+    },
+    {
+      "basename": "Pasted image 20250618100629",
+      "path": "Pasted image 20250618100629.png"
+    },
+    {
+      "basename": "1",
+      "path": "1.md"
+    },
+    {
+      "basename": "Topsis法",
+      "path": "MCM/Topsis法.md"
+    },
+    {
+      "basename": "一些套路",
+      "path": "MCM/一些套路.md"
+    },
+    {
+      "basename": "信息获取",
+      "path": "MCM/信息获取.md"
+    },
+    {
+      "basename": "算法概要",
+      "path": "MCM/算法概要.webp"
+    },
+    {
+      "basename": "数据归一化的方法",
+      "path": "MCM/数据归一化的方法.md"
+    },
+    {
+      "basename": "熵权法",
+      "path": "MCM/熵权法.md"
+    },
+    {
+      "basename": "层次分析法",
+      "path": "MCM/层次分析法.md"
+    },
+    {
+      "basename": "Lab6&7",
+      "path": "操作系统/Lab6&7.md"
+    },
+    {
+      "basename": "Lab6&7-report",
+      "path": "操作系统/Lab6&7-report.md"
+    },
+    {
+      "basename": "TSS-任务状态段",
+      "path": "操作系统/TSS-任务状态段.md"
+    },
+    {
+      "basename": "电势",
+      "path": "物理/电势.md"
+    },
+    {
+      "basename": "设备管理",
+      "path": "操作系统/设备管理.md"
+    },
+    {
+      "basename": "压缩文件",
+      "path": "压缩文件.md"
+    },
+    {
+      "basename": "Lab5-report",
+      "path": "操作系统/Lab5-report.md"
+    },
+    {
+      "basename": "死锁",
+      "path": "操作系统/死锁.md"
+    },
+    {
+      "basename": "初窥CPU执行原理-汇编入门",
+      "path": "计算机导论/初窥CPU执行原理-汇编入门.md"
     },
     {
       "basename": "静电场",
       "path": "物理/静电场.md"
+    },
+    {
+      "basename": "高斯定理",
+      "path": "物理/高斯定理.md"
     },
     {
       "basename": "刚体的定轴转动",
@@ -41,20 +137,12 @@
       "path": "物理/电容器与电介质.md"
     },
     {
-      "basename": "1",
-      "path": "1.md"
-    },
-    {
       "basename": "AC 自动机",
       "path": "数据结构与算法/AC 自动机.md"
     },
     {
       "basename": "图匹配",
       "path": "数据结构与算法/图匹配.md"
-    },
-    {
-      "basename": "排序",
-      "path": "数据结构与算法/排序.md"
     },
     {
       "basename": "概论",
@@ -65,16 +153,8 @@
       "path": "操作系统/磁盘.md"
     },
     {
-      "basename": "死锁",
-      "path": "操作系统/死锁.md"
-    },
-    {
       "basename": "固态硬盘SSD",
       "path": "操作系统/固态硬盘SSD.md"
-    },
-    {
-      "basename": "Lab6&7",
-      "path": "操作系统/Lab6&7.md"
     },
     {
       "basename": "图",
@@ -119,86 +199,6 @@
     {
       "basename": "牛顿运动定律",
       "path": "物理/牛顿运动定律.md"
-    },
-    {
-      "basename": "热力学第二定律",
-      "path": "物理/热力学第二定律.md"
-    },
-    {
-      "basename": "热力学第一定律",
-      "path": "物理/热力学第一定律.md"
-    },
-    {
-      "basename": "温度和气体动理论",
-      "path": "物理/温度和气体动理论.md"
-    },
-    {
-      "basename": "振动",
-      "path": "物理/振动.md"
-    },
-    {
-      "basename": "质点运动学",
-      "path": "物理/质点运动学.md"
-    },
-    {
-      "basename": "Lab5-report",
-      "path": "操作系统/Lab5-report.md"
-    },
-    {
-      "basename": "事件与概率",
-      "path": "概率论与数理统计/事件与概率.md"
-    },
-    {
-      "basename": "多维随机变量",
-      "path": "概率论与数理统计/多维随机变量.md"
-    },
-    {
-      "basename": "逻辑代数基础",
-      "path": "数字逻辑电路/逻辑代数基础.md"
-    },
-    {
-      "basename": "lab1",
-      "path": "操作系统/lab1.md"
-    },
-    {
-      "basename": "组合逻辑电路",
-      "path": "数字逻辑电路/组合逻辑电路.md"
-    },
-    {
-      "basename": "流网络",
-      "path": "数据结构与算法/流网络.md"
-    },
-    {
-      "basename": "滑动窗口",
-      "path": "数据结构与算法/滑动窗口.md"
-    },
-    {
-      "basename": "0-1背包问题",
-      "path": "数据结构与算法/0-1背包问题.md"
-    },
-    {
-      "basename": "单调栈&单调队列",
-      "path": "数据结构与算法/单调栈&单调队列.md"
-    },
-    {
-      "basename": "递归分析",
-      "path": "数据结构与算法/递归分析.md"
-    },
-    {
-      "basename": "递归和分治",
-      "path": "数据结构与算法/递归和分治.md"
-    },
-    {
-      "basename": "动态规划",
-      "path": "数据结构与算法/动态规划.md"
-    },
-    {
-      "basename": "二叉堆",
-      "path": "数据结构与算法/二叉堆.md"
-    },
-    {
-      "basename": "二叉树基本算法",
-      "path": "数据结构与算法/二叉树基本算法.md"
     }
   ],
   "omittedPaths": [],
