@@ -1,28 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "文件系统",
-      "path": "操作系统/文件系统.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "内存管理",
       "path": "操作系统/内存管理.md"
-    },
-    {
-      "basename": "排序",
-      "path": "数据结构与算法/排序.md"
     },
     {
       "basename": "进程&线程",
       "path": "操作系统/进程&线程.md"
     },
     {
+      "basename": "磁盘管理",
+      "path": "操作系统/磁盘管理.md"
+    },
+    {
+      "basename": "概论",
+      "path": "操作系统/概论.md"
+    },
+    {
+      "basename": "固态硬盘SSD",
+      "path": "操作系统/固态硬盘SSD.md"
+    },
+    {
+      "basename": "设备管理",
+      "path": "操作系统/设备管理.md"
+    },
+    {
+      "basename": "死锁",
+      "path": "操作系统/死锁.md"
+    },
+    {
       "basename": "lab1",
       "path": "操作系统/lab1.md"
+    },
+    {
+      "basename": "文件系统",
+      "path": "操作系统/文件系统.md"
+    },
+    {
+      "basename": "二分图最大匹配",
+      "path": "数据结构与算法/二分图最大匹配.md"
+    },
+    {
+      "basename": "0-1背包问题",
+      "path": "数据结构与算法/0-1背包问题.md"
+    },
+    {
+      "basename": "败者树",
+      "path": "数据结构与算法/败者树.md"
+    },
+    {
+      "basename": "并查集",
+      "path": "数据结构与算法/并查集.md"
+    },
+    {
+      "basename": "查找",
+      "path": "数据结构与算法/查找.md"
+    },
+    {
+      "basename": "差分约束",
+      "path": "数据结构与算法/差分约束.md"
+    },
+    {
+      "basename": "单调栈&单调队列",
+      "path": "数据结构与算法/单调栈&单调队列.md"
+    },
+    {
+      "basename": "递归分析",
+      "path": "数据结构与算法/递归分析.md"
+    },
+    {
+      "basename": "Lab6&7-report",
+      "path": "操作系统/Lab6&7-report.md"
+    },
+    {
+      "basename": "图匹配",
+      "path": "数据结构与算法/图匹配.md"
+    },
+    {
+      "basename": "最大流最小割",
+      "path": "数据结构与算法/最大流最小割.md"
+    },
+    {
+      "basename": "最短路径",
+      "path": "数据结构与算法/最短路径.md"
+    },
+    {
+      "basename": "参数估计",
+      "path": "概率论与数理统计/参数估计.md"
+    },
+    {
+      "basename": "假设检验",
+      "path": "概率论与数理统计/假设检验.md"
+    },
+    {
+      "basename": "多维随机变量",
+      "path": "概率论与数理统计/多维随机变量.md"
+    },
+    {
+      "basename": "1",
+      "path": "1.md"
+    },
+    {
+      "basename": "Lab5",
+      "path": "操作系统/Lab5.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "马原选择题",
+      "path": "马原选择题.md"
+    },
+    {
+      "basename": "排序",
+      "path": "数据结构与算法/排序.md"
     },
     {
       "basename": "Cmake",
@@ -47,10 +139,6 @@
     {
       "basename": "Pasted image 20250618100629",
       "path": "Pasted image 20250618100629.png"
-    },
-    {
-      "basename": "1",
-      "path": "1.md"
     },
     {
       "basename": "Topsis法",
@@ -85,10 +173,6 @@
       "path": "操作系统/Lab6&7.md"
     },
     {
-      "basename": "Lab6&7-report",
-      "path": "操作系统/Lab6&7-report.md"
-    },
-    {
       "basename": "TSS-任务状态段",
       "path": "操作系统/TSS-任务状态段.md"
     },
@@ -97,20 +181,12 @@
       "path": "物理/电势.md"
     },
     {
-      "basename": "设备管理",
-      "path": "操作系统/设备管理.md"
-    },
-    {
       "basename": "压缩文件",
       "path": "压缩文件.md"
     },
     {
       "basename": "Lab5-report",
       "path": "操作系统/Lab5-report.md"
-    },
-    {
-      "basename": "死锁",
-      "path": "操作系统/死锁.md"
     },
     {
       "basename": "初窥CPU执行原理-汇编入门",
@@ -123,82 +199,6 @@
     {
       "basename": "高斯定理",
       "path": "物理/高斯定理.md"
-    },
-    {
-      "basename": "刚体的定轴转动",
-      "path": "物理/刚体的定轴转动.md"
-    },
-    {
-      "basename": "动量与角动量",
-      "path": "物理/动量与角动量.md"
-    },
-    {
-      "basename": "电容器与电介质",
-      "path": "物理/电容器与电介质.md"
-    },
-    {
-      "basename": "AC 自动机",
-      "path": "数据结构与算法/AC 自动机.md"
-    },
-    {
-      "basename": "图匹配",
-      "path": "数据结构与算法/图匹配.md"
-    },
-    {
-      "basename": "概论",
-      "path": "操作系统/概论.md"
-    },
-    {
-      "basename": "磁盘",
-      "path": "操作系统/磁盘.md"
-    },
-    {
-      "basename": "固态硬盘SSD",
-      "path": "操作系统/固态硬盘SSD.md"
-    },
-    {
-      "basename": "图",
-      "path": "数据结构与算法/图.md"
-    },
-    {
-      "basename": "贪心",
-      "path": "数据结构与算法/贪心.md"
-    },
-    {
-      "basename": "数理统计基础",
-      "path": "概率论与数理统计/数理统计基础.md"
-    },
-    {
-      "basename": "KMP字符串匹配",
-      "path": "数据结构与算法/KMP字符串匹配.md"
-    },
-    {
-      "basename": "Trie",
-      "path": "数据结构与算法/Trie.md"
-    },
-    {
-      "basename": "随机变量的数字特征",
-      "path": "概率论与数理统计/随机变量的数字特征.md"
-    },
-    {
-      "basename": "同步时序电路",
-      "path": "数字逻辑电路/同步时序电路.md"
-    },
-    {
-      "basename": "触发器",
-      "path": "数字逻辑电路/触发器.md"
-    },
-    {
-      "basename": "一维随机变量",
-      "path": "概率论与数理统计/一维随机变量.md"
-    },
-    {
-      "basename": "Lab5",
-      "path": "操作系统/Lab5.md"
-    },
-    {
-      "basename": "牛顿运动定律",
-      "path": "物理/牛顿运动定律.md"
     }
   ],
   "omittedPaths": [],
