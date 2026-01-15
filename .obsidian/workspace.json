@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/内存管理.md",
+                "file": "物理/电势.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内存管理"
+              "title": "电势"
+            }
+          },
+          {
+            "id": "a6fe50c21ee2bbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/最大流最小割.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最大流最小割"
+            }
+          },
+          {
+            "id": "4b0b03a97c0a2155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "二分图最优匹配（最大权最大匹配）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二分图最优匹配（最大权最大匹配）"
+            }
+          },
+          {
+            "id": "71a59b5982fd726c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/贪心.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "贪心"
+            }
+          },
+          {
+            "id": "7848ca032fe6f570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构与算法/近似问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "近似问题"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/内存管理.md",
+                "file": "概率论与数理统计/多维随机变量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "内存管理 的大纲"
+              "title": "多维随机变量 的大纲"
             }
           },
           {
@@ -208,17 +265,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:创建新看板": false,
@@ -227,34 +285,35 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0a2158fdb45ad7e6",
+  "active": "71a59b5982fd726c",
   "lastOpenFiles": [
-    "操作系统/进程&线程.md",
-    "操作系统/磁盘管理.md",
-    "操作系统/概论.md",
-    "操作系统/固态硬盘SSD.md",
-    "操作系统/内存管理.md",
-    "操作系统/设备管理.md",
-    "操作系统/死锁.md",
-    "操作系统/lab1.md",
-    "操作系统/文件系统.md",
+    "数据结构与算法/NP完全问题.md",
+    "数据结构与算法/近似问题.md",
+    "数据结构与算法/ST表.md",
+    "数据结构与算法/Trie.md",
+    "数据结构与算法/zkw线段树.md",
     "数据结构与算法/二分图最大匹配.md",
-    "数据结构与算法/0-1背包问题.md",
-    "数据结构与算法/败者树.md",
-    "数据结构与算法/并查集.md",
-    "数据结构与算法/查找.md",
-    "数据结构与算法/差分约束.md",
-    "数据结构与算法/单调栈&单调队列.md",
-    "数据结构与算法/递归分析.md",
-    "操作系统/Lab6&7-report.md",
-    "数据结构与算法/图匹配.md",
+    "二分图最优匹配（最大权最大匹配）.md",
     "数据结构与算法/最大流最小割.md",
-    "数据结构与算法/最短路径.md",
-    "概率论与数理统计/参数估计.md",
-    "概率论与数理统计/假设检验.md",
+    "Pasted image 20260115123011.png",
+    "物理/电势.md",
+    "物理/静电场.md",
+    "物理/光学.md",
+    "物理/高斯定理.md",
+    "物理/刚体的定轴转动.md",
+    "物理/动量与角动量.md",
+    "物理/波动.md",
+    "物理/电容器与电介质.md",
+    "数字逻辑电路/组合逻辑电路.md",
+    "数字逻辑电路/同步时序电路.md",
+    "数字逻辑电路/触发器.md",
     "概率论与数理统计/多维随机变量.md",
-    "1.md",
-    "操作系统/Lab5.md",
+    "概率论与数理统计/一维随机变量.md",
+    "概率论与数理统计/随机变量的数字特征.md",
+    "概率论与数理统计/数理统计基础.md",
+    "概率论与数理统计/假设检验.md",
+    "概率论与数理统计/参数估计.md",
+    "数据结构与算法/差分约束.md",
     "TODO.canvas",
     "satisfaction.png",
     "Pasted image 20251217211047.png",
@@ -266,7 +325,6 @@
     "MCM/B/ourwork.png",
     "MCM/B/invisible_burden.png",
     "NIX",
-    "Pasted image 20251021231913.png",
     "CS61c",
     "计算机导论",
     "数据结构与算法",
