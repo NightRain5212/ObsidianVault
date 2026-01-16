@@ -223,17 +223,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:创建新看板": false,
@@ -282,7 +283,6 @@
     "MCM/B/ourwork.png",
     "MCM/B/invisible_burden.png",
     "NIX",
-    "Pasted image 20251021231913.png",
     "CS61c",
     "计算机导论",
     "数据结构与算法",
