@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Cmake",
+      "path": "Cmake.md"
+    },
+    {
+      "basename": "Express",
+      "path": "Express.md"
+    },
+    {
+      "basename": "GDB",
+      "path": "GDB.md"
+    },
+    {
+      "basename": "Pasted image 20251217211047",
+      "path": "Pasted image 20251217211047.png"
+    },
+    {
+      "basename": "Summary writing",
+      "path": "Summary writing.md"
+    },
+    {
+      "basename": "py",
+      "path": "爬虫/py.md"
+    },
+    {
       "basename": "内存管理",
       "path": "操作系统/内存管理.md"
     },
@@ -97,16 +121,8 @@
       "path": "概率论与数理统计/多维随机变量.md"
     },
     {
-      "basename": "1",
-      "path": "1.md"
-    },
-    {
       "basename": "Lab5",
       "path": "操作系统/Lab5.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "马原选择题",
@@ -115,18 +131,6 @@
     {
       "basename": "排序",
       "path": "数据结构与算法/排序.md"
-    },
-    {
-      "basename": "Cmake",
-      "path": "Cmake.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
-      "basename": "Pasted image 20251217211047",
-      "path": "Pasted image 20251217211047.png"
     },
     {
       "basename": "Pasted image 20251023140131",
@@ -195,10 +199,6 @@
     {
       "basename": "静电场",
       "path": "物理/静电场.md"
-    },
-    {
-      "basename": "高斯定理",
-      "path": "物理/高斯定理.md"
     }
   ],
   "omittedPaths": [],
